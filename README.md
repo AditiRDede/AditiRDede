@@ -4,7 +4,7 @@
 
 👩🏻‍💻 Software Developer sharing about my journey and learnings in tech</br>
 👩🏻‍🎓 Studied Computer Science at the WCE ,India </br>
-🌱 Currently learning about Advance Java with Spring</br>
+🌱 Currently learning Spring</br>
 📫 Reach me at [LInkedIn](https://www.linkedin.com/in/aditidede/)</br>
 <!--🎨 Writing tech article at [Medium](https://medium.com/@aditidede96) </br>-->
 <!--🌷 #learninginpublic sharing at my blog</br>-->
